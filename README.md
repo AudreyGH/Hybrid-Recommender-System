@@ -2,13 +2,13 @@
 
 Requirements
 
-Python 3.8 + (Only if your text editor or IDE does not have it installed by default)
-Pandas - https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html 
-NumPy - https://numpy.org/install/ 
-ml_metrics – https://github.com/benhamner/Metrics/tree/master/Python  
-PyQt5 - https://pypi.org/project/PyQt5/ 
-Matplotlib - https://matplotlib.org/stable/users/installing.html 
-Scikit-learn - https://scikit-learn.org/stable/install.html 
+1. Python 3.8 + (Only if your text editor or IDE does not have it installed by default)
+2. Pandas - https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html 
+3. NumPy - https://numpy.org/install/ 
+4. ml_metrics – https://github.com/benhamner/Metrics/tree/master/Python  
+5. PyQt5 - https://pypi.org/project/PyQt5/ 
+6. Matplotlib - https://matplotlib.org/stable/users/installing.html 
+7. Scikit-learn - https://scikit-learn.org/stable/install.html 
 
 
 Application
