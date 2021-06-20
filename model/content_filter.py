@@ -16,7 +16,7 @@ df = []
 mapk = []
 
 
-# Find plates that are similar to the selected PCB using Natural Language Processing and K-Nearest Neighbors
+# Find plates that are similar to the selected PCB
 # Returns a sorted and filtered nested list of plates
 def similar_plate(query):
     recommended_plates = []  # container for recommended items
@@ -96,7 +96,7 @@ def similar_plate(query):
     return sorted_list
 
 
-# Find cases that are similar to the selected Plate using Natural Language Processing and K-Nearest Neighbors
+# Find cases that are similar to the selected Plate
 # Returns a sorted and filtered nested list of cases
 def similar_case(query):
     recommended = []
@@ -179,7 +179,7 @@ def similar_case(query):
     return sorted_list
 
 
-# Find keycaps that are similar to items in the build table using Natural Language Processing and K-Nearest Neighbors
+# Find keycaps that are similar to items in the build table
 # Returns a sorted recommended nested list of keycaps
 def similar_keycap():
     recommended = []
