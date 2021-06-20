@@ -96,7 +96,7 @@ def similar_plate(query):
     return sorted_list
 
 
-# Find cases that are similar to the selected Plate
+# Find cases that are similar to the selected items
 # Returns a sorted and filtered nested list of cases
 def similar_case(query):
     recommended = []
@@ -179,7 +179,7 @@ def similar_case(query):
     return sorted_list
 
 
-# Find keycaps that are similar to items in the build table
+# Find keycaps that are similar to selected items
 # Returns a sorted recommended nested list of keycaps
 def similar_keycap():
     recommended = []
