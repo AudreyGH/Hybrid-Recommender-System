@@ -1,0 +1,82 @@
+Brand,Series,Model,Action,Ave Rating,Price,Part,User1,User2,User3,User4
+Cherry,MX,Red,Linear,4.2,40.00,Switch,3.3,4.0,4.8,4.8
+Cherry,MX,Brown,Tactile,4.4,40.00,Switch,5.0,4.7,4.0,3.7
+Cherry,MX,Blue,Clicky,4.2,40.00,Switch,3.8,4.2,4.3,4.5
+Cherry,MX,Black,Linear,4.6,40.00,Switch,4.3,4.7,5.0,4.5
+Cherry,MX,Clear,Tactile,4.0,55.00,Switch,3.8,4.0,4.5,3.7
+Cherry,MX,Green,Clicky,4.5,55.00,Switch,4.8,3.7,4.7,4.7
+Cherry,MX,Gray,Linear,4.3,55.00,Switch,4.8,5.0,3.8,3.7
+Cherry,MX,Gray,Tactile,4.1,55.00,Switch,4.0,3.5,4.2,4.7
+Cherry,MX,White,Clicky,4.3,55.00,Switch,5.0,4.7,3.5,4.0
+Cherry,MX,Nature White,Linear,4.2,55.00,Switch,4.7,3.8,4.5,3.8
+Cherry,MX Speed,Silver,Linear,4.5,55.00,Switch,4.3,4.2,4.8,4.8
+Cherry,MX Silent,Red,Linear,4.2,55.00,Switch,4.8,3.7,3.3,4.8
+Cherry,MX Silent,Black,Linear,4.3,55.00,Switch,3.7,4.5,4.8,4.3
+Gateron,KS-9,Red,Linear,4.6,20.00,Switch,5.0,4.3,5.0,4.0
+Gateron,KS-9,Brown,Tactile,3.8,20.00,Switch,4.5,3.5,3.3,3.8
+Gateron,KS-9,Blue,Clicky,4.1,20.00,Switch,4.0,4.5,3.7,4.2
+Gateron,KS-9,Green,Clicky,4.5,20.00,Switch,5.0,4.8,3.5,4.8
+Gateron,KS-9,Black,Linear,4.3,20.00,Switch,3.8,3.7,4.8,4.8
+Gateron,KS-9,Yellow,Linear,4.2,20.00,Switch,3.8,3.7,5.0,4.3
+Gateron,KS-9,Clear,Linear,4.3,20.00,Switch,3.7,3.7,5.0,4.8
+Gateron,Silent,Brown,Tactile,4.0,38.00,Switch,3.8,3.7,4.0,4.3
+Gateron,Silent,Black,Linear,4.5,38.00,Switch,4.8,4.5,4.8,4.0
+Gateron,Silent,Red,Linear,4.3,38.00,Switch,5.0,3.5,4.3,4.5
+Gateron,Silent,Yellow,Linear,4.0,38.00,Switch,3.8,3.5,4.5,4.3
+Gateron,Silent,Clear,Linear,4.1,38.00,Switch,4.7,3.7,3.8,4.3
+ZealPC,Zealio,Zealio,Tactile,4.9,110.00,Switch,5.0,5.0,4.7,4.8
+ZealPC,Zilent,Zilent,Tactile,4.7,110.00,Switch,4.2,4.7,5.0,4.8
+ZealPC,Tealio,Tealio,Linear,4.2,110.00,Switch,3.8,5.0,3.8,4.2
+ZealPC,Tealio,Healio,Linear,3.7,110.00,Switch,3.3,3.5,3.7,4.2
+Outemu,ICE,Silver,Linear,4.0,38.40,Switch,5.0,4.2,3.3,3.3
+Outemu,ICE,Purple Light,Tactile,4.0,38.40,Switch,4.8,3.3,3.7,4.3
+Outemu,ICE,Purple Heavy,Tactile,3.6,38.40,Switch,3.3,3.7,3.5,3.7
+Outemu,ICE,Clear,Clicky,3.8,38.40,Switch,3.3,5.0,3.7,3.3
+Outemu,ICE,Teal,Clicky,4.2,38.40,Switch,4.8,3.3,3.7,5.0
+Outemu,Gazzew,Sky,Tactile,4.4,54.40,Switch,4.8,5.0,4.3,3.3
+Kailh,Kailh,Red,Linear,4.3,28.00,Switch,5.0,3.8,3.5,4.8
+Kailh,Kailh,Brown,Tactile,4.3,28.00,Switch,3.7,5.0,4.5,3.8
+Kailh,Kailh,Blue,Clicky,4.4,28.00,Switch,4.5,5.0,3.8,4.2
+Kailh,Kailh,Black,Linear,4.2,28.00,Switch,3.3,5.0,4.8,3.8
+Kailh,Speed,Silver,Linear,4.7,28.00,Switch,4.7,4.5,5.0,4.7
+Kailh,Speed,Copper,Tactile,4.2,28.00,Switch,5.0,3.8,3.7,4.2
+Kailh,Speed,Gold,Clicky,3.9,28.00,Switch,3.5,4.2,4.2,3.5
+Kailh,Speed,Bronze,Clicky,4.4,28.00,Switch,3.5,4.5,5.0,4.5
+Kailh,Speed,Pink,Clicky,4.5,28.00,Switch,4.5,4.7,3.8,5.0
+Kailh x Novelkeys,Speed Heavy,Dark yellow,Linear,4.0,30.00,Switch,4.5,3.8,3.3,4.3
+Kailh x Novelkeys,Speed Heavy,Burnt orange,Tactile,3.7,30.00,Switch,3.5,3.5,4.5,3.3
+Kailh x Novelkeys,Speed Heavy,Pale blue,Clicky,4.1,30.00,Switch,4.5,3.8,4.7,3.3
+Kailh x Novelkeys,Speed Thick Clicks,Navy,Clicky,4.1,30.00,Switch,4.0,3.7,5.0,3.5
+Kailh,Pro,Burgundy,Linear,4.0,30.00,Switch,5.0,3.8,3.3,3.7
+Kailh,Pro,Purple,Tactile,4.3,30.00,Switch,5.0,4.5,3.3,4.3
+Kailh,Pro,Light green,Clicky,3.8,30.00,Switch,4.8,3.7,3.3,3.5
+Kailh x Novelkeys,Pro Heavy,Berry,Clicky,4.2,30.00,Switch,4.7,4.7,3.3,4.2
+Kailh x Novelkeys,Pro Heavy,Plum,Clicky,3.9,30.00,Switch,3.5,3.5,4.8,3.7
+Kailh x Novelkeys,Pro Heavy,Sage,Clicky,3.9,30.00,Switch,3.5,5.0,3.8,3.3
+Kailh,BOX,Red,Linear,4.8,30.00,Switch,5.0,4.5,5.0,4.5
+Kailh,BOX,Brown,Tactile,4.1,30.00,Switch,4.7,4.0,4.2,3.5
+Kailh,BOX,White,Clicky,3.9,30.00,Switch,3.7,3.7,4.0,4.3
+Kailh,BOX,Black,Linear,4.5,30.00,Switch,5.0,3.8,4.8,4.5
+Kailh x Novelkeys,BOX Heavy,Dark yellow,Linear,4.0,45.00,Switch,4.7,4.8,3.3,3.3
+Kailh x Novelkeys,BOX Heavy,Burnt orange,Tactile,4.1,45.00,Switch,3.8,4.2,3.8,4.5
+Kailh x Novelkeys,BOX Heavy,Pale blue,Clicky,4.2,45.00,Switch,4.8,3.3,4.3,4.3
+Kailh x Novelkeys,BOX Thick Clicks,Jade,Clicky,4.2,42.00,Switch,5.0,3.5,3.3,5.0
+Kailh x Novelkeys,BOX Thick Clicks,Navy,Clicky,4.2,42.00,Switch,4.8,3.8,3.5,4.5
+Kailh x Novelkeys,BOX,Royal,Tactile,4.4,50.00,Switch,5.0,4.5,4.0,4.0
+Kailh x Novelkeys,BOX,Novelia,Tactile,4.4,50.00,Switch,4.8,4.3,3.3,5.0
+Kailh x Novelkeys,Cream,Cream,Linear,4.0,65.00,Switch,4.0,4.7,3.7,3.5
+Massdrop,Halo,TRUE,Tactile,4.2,50.00,Switch,4.2,3.3,4.7,4.7
+Massdrop,Halo,Clear,Tactile,4.2,50.00,Switch,4.7,4.0,4.3,3.8
+Input Club,Hako,TRUE,Tactile,4.3,50.00,Switch,4.3,4.8,3.3,4.7
+Input Club,Hako,Clear,Tactile,4.5,50.00,Switch,4.8,4.7,4.3,4.0
+Input Club,Hako,Violet,Tactile,4.6,50.00,Switch,4.2,4.8,4.8,4.5
+Aliaz,Aliaz,60g,Tactile,3.9,57.00,Switch,3.8,3.8,4.5,3.5
+Aliaz,Aliaz,70g,Tactile,4.4,57.00,Switch,3.7,5.0,4.7,4.3
+Aliaz,Aliaz,80g,Tactile,4.3,57.00,Switch,4.5,3.8,4.3,4.7
+Aliaz,Aliaz,100g,Tactile,4.1,57.00,Switch,3.8,4.5,4.5,3.5
+TTC,Orange,Linear Light,Linear,4.3,60.00,Switch,4.8,4.0,4.7,3.8
+TTC,Orange,Linear Heavy,Linear,4.2,60.00,Switch,3.3,4.3,4.8,4.2
+TTC,Orange,Tactile,Tactile,3.7,60.00,Switch,3.3,3.5,4.3,3.7
+TTC,Orange,Clicky,Clicky,4.1,60.00,Switch,3.3,4.7,4.2,4.0
+Revo,Revo,Pink,Tactile,3.9,200.00,Switch,4.7,3.8,3.5,3.7
+Revo,Revo,White,Linear,4.1,150.00,Switch,4.5,4.2,3.3,4.5
