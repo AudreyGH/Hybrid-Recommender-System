@@ -2,7 +2,7 @@
 
 Requirements
 
-1. Python 3.8 + (Only if your text editor or IDE does not have it installed by default)
+1. Python 3.8 
 2. Pandas - https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html 
 3. NumPy - https://numpy.org/install/ 
 4. ml_metrics – https://github.com/benhamner/Metrics/tree/master/Python  
