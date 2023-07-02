@@ -1,4 +1,4 @@
-# WGU-Capstone-Hybrid-Recommender
+# Hybrid-Recommender
 
 Requirements
 
